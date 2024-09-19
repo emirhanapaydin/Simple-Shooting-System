@@ -1,0 +1,60 @@
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\bin\Debug\ateş et!.exe.config
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\bin\Debug\ateş et!.exe
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\bin\Debug\ateş et!.pdb
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\obj\Debug\ateş et!.csprojResolveAssemblyReference.cache
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\obj\Debug\ateş_et_.Form1.resources
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\obj\Debug\ateş_et_.Properties.Resources.resources
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.GenerateResource.Cache
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\obj\Debug\ateş et!.exe
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\obj\Debug\ateş et!.pdb
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\bin\Debug\Interop.WMPLib.dll
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\obj\Debug\Interop.WMPLib.dll
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Emirhan\source\repos\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.ResolveComReference.cache
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\bin\Debug\ateş et!.exe.config
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\bin\Debug\ateş et!.exe
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\bin\Debug\ateş et!.pdb
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\bin\Debug\Interop.WMPLib.dll
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csprojResolveAssemblyReference.cache
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\Interop.WMPLib.dll
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.ResolveComReference.cache
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş_et_.Form1.resources
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş_et_.Properties.Resources.resources
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.GenerateResource.Cache
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.exe
+C:\Users\Emirhan\Desktop\C#\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.pdb
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\bin\Debug\ateş et!.exe.config
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\bin\Debug\ateş et!.exe
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\bin\Debug\ateş et!.pdb
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\bin\Debug\Interop.WMPLib.dll
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csprojAssemblyReference.cache
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\Interop.WMPLib.dll
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.ResolveComReference.cache
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş_et_.Form1.resources
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş_et_.Properties.Resources.resources
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.GenerateResource.cache
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.CoreCompileInputs.cache
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.exe
+C:\Users\EMREHAN APAYDIN\Desktop\mid\solo\Projeler\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.pdb
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\bin\Debug\ateş et!.exe.config
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\bin\Debug\ateş et!.exe
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\bin\Debug\ateş et!.pdb
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\bin\Debug\Interop.WMPLib.dll
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csprojAssemblyReference.cache
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\obj\Debug\Interop.WMPLib.dll
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.ResolveComReference.cache
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\obj\Debug\ateş_et_.Form1.resources
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\obj\Debug\ateş_et_.Properties.Resources.resources
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.GenerateResource.cache
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.exe
+C:\Users\emirh\OneDrive\Documents\CE\c#\Kodları\ateş et!\ateş et!\obj\Debug\ateş et!.pdb
